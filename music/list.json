@@ -1,10 +1,10 @@
 {
     "crazy": {
-        "title": "Crazy!"
+        "title": "Crazy!",
         "artist": "Gnarles Barkley"
     },
     "healed":{
-        "title": "Did ya' get Healed"
+        "title": "Did ya' get Healed",
         "artist": "Bob Marley"
     }
 }
