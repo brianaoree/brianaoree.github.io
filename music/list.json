@@ -6,5 +6,17 @@
     "healed":{
         "title": "Did ya' get Healed",
         "artist": "Bob Marley"
+    },
+    "Nicki Minaj - All Things Go" :{
+        "title" : "All Things Go",
+        "artist" : "Nicki Minaj"
+    },
+    "J. Cole - Love Yourz [Clean Version]" :{
+        "title" : "Love Yourz [Clean Version]",
+        "artist" : "J. Cole"
+    },
+    "Rihanna ft Drake - Work Clean" :{
+        "title" : "Work Clean",
+        "artist" : "Rihanna ft Drake"
     }
 }
