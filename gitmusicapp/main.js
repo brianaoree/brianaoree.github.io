@@ -119,8 +119,7 @@ function playNextSong(e){
     if(chooser.selectedIndex !== 0){
         if(shuffleOn){
             playlist.selectedIndex = songsArray.indexOf(getRandomSong()) + 1;
-            flashObjectStyle(nextSong,"box-shadow","inset 1px 1px 1px black", 0.5);
-            flashObjectColor(nextSong,"white", 0.5);
+            
             playSong();            
         }
         else if(playlist.selectedIndex !== highestIndex){
@@ -130,7 +129,9 @@ function playNextSong(e){
         else{
             playlist.selectedIndex = 1;
             playSong();        
-        }        
+        }   
+            flashObjectStyle(nextSong,"box-shadow","inset 1px 1px 1px black", 0.5);
+            flashObjectColor(nextSong,"white", 0.5);
     }
 }
 //----------
